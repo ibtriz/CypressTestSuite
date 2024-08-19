@@ -1,7 +1,7 @@
 # Automation Testing with Cypress
 
 ![Cypress](https://img.shields.io/badge/cypress-9.0.0-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/adopet-cypress)
+![GitHub last commit](https://img.shields.io/github/last-commit/ibtriz/CypressTestSuite)
 
 ## Introduction
 
