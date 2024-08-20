@@ -1,5 +1,5 @@
-describe('Teste de cadastro', () => {
-    it('Cadastro de usuário', () => {
+describe('Pagina de cadastro', () => {
+    it('Deve preencher os dados corretos e cadastrar usuário', () => {
     cy.visit('https://adopet-frontend-cypress.vercel.app/');
     cy.contains('a', 'Cadastrar').click();
     cy.get('input[name="nome"]').type('Ana Cristina');
